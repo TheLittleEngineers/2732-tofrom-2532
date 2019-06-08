@@ -69,8 +69,7 @@ PLEASE NOTE: THIS VERSION HAS NOT YET BEEN TESTED.</em></b>
 <b>This version is deprecated - please see the new version here: 
 <a href="https://github.com/TheLittleEngineers/2732-to-2532">https://github.com/TheLittleEngineers/2732-to-2532</a></b></p>
 
-      <hr>
-
+<hr align="justify">
 </font></td>
     </tr>
     <tr>
