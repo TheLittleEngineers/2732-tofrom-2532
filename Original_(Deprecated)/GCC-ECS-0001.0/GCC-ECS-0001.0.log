@@ -1,0 +1,20 @@
+Project Library Creation Log File 7/31/2019 2:40:10 AM
+EAGLE Version 5.10.0 Copyright (c) 1988-2010 CadSoft
+Created from: GCC-ECS-0001.0.sch
+
+LIBRARY: GIMEchip.lbr
+   PAC: DIL24
+   SYM: 2532
+   SYM: 2732
+   SYM: PWRN-1-1
+   DEV: 2532
+   DEV: 2732
+LIBRARY: jumper.lbr
+   PAC: JP1
+   SYM: JP2E
+   DEV: JP1E
+LIBRARY: supply1.lbr
+   SYM: GND
+   SYM: VCC
+   DEV: GND
+   DEV: VCC
