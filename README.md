@@ -20,7 +20,7 @@ This HTML is a veritable train wreck, however, it seems to get the job done on 2
 <body style="background-color:WhiteSmoke;">
 
 <!-- Top Row -->
-<div align="justify">
+<div align="center">
   
 <center>
   
@@ -33,7 +33,8 @@ The Little Engineers</a>.<br>Copyright &copy;2019, by:<br>
 Robert "The R.A.T." Allen Turner<br>
 <a href="http://www.TheLittleEngineers.org/" target="_blank">http://www.TheLittleEngineers.org/</a><br>
 <a href="mailto:TheLittleEngineers@outlook.com">TheLittleEngineers@outlook.com</a><br>
-<a href="mailto:OurLittleEngineers@gMail.com">OurLittleEngineers@gMail.com</a><br></p></center>
+<a href="mailto:OurLittleEngineers@gMail.com">OurLittleEngineers@gMail.com</a><br></div>
+<div align="justify">
 <p align="justify"><b>(Deprecated - See below for 
 <a href="https://github.com/TheLittleEngineers/2732-to-2532" target="_blank">link</a> to the new version).</b>
 </p>
