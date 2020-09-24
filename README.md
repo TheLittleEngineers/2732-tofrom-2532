@@ -70,7 +70,7 @@ PLEASE NOTE: THIS VERSION HAS NOT YET BEEN TESTED.</em></b>
 <b>This version is deprecated - please see the new version here: 
 <a href="https://github.com/TheLittleEngineers/2732-to-2532" target="_blank">https://github.com/TheLittleEngineers/2732-to-2532</a></b></p>
 
-      <hr align="justify">
+<hr align="justify">
 
 </font></td>
     </tr>
