@@ -22,11 +22,12 @@ This HTML is a veritable train wreck, however, it seems to get the job done on 2
 <!-- Top Row -->
 <center>
       
-<h3 style="text-align: center; color: Black;">
-This page created: April 7, 2019, last updated: September 24, 2020.
 
-<p align="center"><font size="6">2732-tofrom-2532 - GCC-ECS-0001.1<br></font>
-      <font size="5"><em>2732/2532 E.P.R.O.M. Socket Converter</em><br></font><font size="4">A Project By <a href="http://www.TheLittleEngineers.org/" target="_blank">
+
+<p align="center"><font size="6">
+This page created: April 7, 2019, last updated: September 24, 2020.
+2732-tofrom-2532 - GCC-ECS-0001.1<br></font>
+<font size="5"><em>2732/2532 E.P.R.O.M. Socket Converter</em><br></font><font size="4">A Project By <a href="http://www.TheLittleEngineers.org/" target="_blank">
 The Little Engineers</a>.<br>Copyright &copy;2019, by:<br>
 Robert "The R.A.T." Allen Turner<br>
 <a href="http://www.TheLittleEngineers.org/" target="_blank">http://www.TheLittleEngineers.org/</a><br>
