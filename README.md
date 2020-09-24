@@ -20,7 +20,7 @@ This HTML is a veritable train wreck, however, it seems to get the job done on 2
 <body style="background-color:WhiteSmoke;">
 
 <!-- Top Row -->
-<div align="center">
+<div align="justify">
   
 <center>
   
