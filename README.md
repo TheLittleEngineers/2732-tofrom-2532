@@ -20,10 +20,8 @@ This HTML is a veritable train wreck, however, it seems to get the job done on 2
 <body style="background-color:WhiteSmoke;">
 
 <!-- Top Row -->
-<center>
-      
-
-
+<div align="center">
+  <center>
 <p align="center"><font size="6">
 This page created: April 7, 2019, last updated: September 24, 2020.<br>
 2732-tofrom-2532 - GCC-ECS-0001.1<br></font>
